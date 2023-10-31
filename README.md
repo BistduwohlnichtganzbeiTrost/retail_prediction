@@ -1,18 +1,6 @@
 # retail_prediction
 
-In this time series forecasting problem, you are required to predict the future number of sales of each product expected on a specific day. The attached data is the transactional dataset which contains all the transactions between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. 
-
-Data Dictionary
-Feature/Attribute	Data Type	Description
-InvoiceNo 	Nominal	 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.
-CustomerID	Nominal	5-digit integral number uniquely assigned to each customer.
-Country	Nominal	The name of the country where each customer resides.
-StockCode/Product (item) code	Nominal	5-digit integral number uniquely assigned to each distinct product.
-Product (item) name. 	Nominal	Name of the product
-Quantity	Numeric	The quantities of each product (item) per transaction. 
-InvoiceDate	Date time	The day and time when each transaction was generated.
-
-UnitPrice	Numeric	Product price per unit in sterling.
+In this time series forecasting problem, you are required to predict the future number of sales of each product expected on a specific day. The attached data is the transactional dataset which contains all the transactions between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts.
 
 
 Please make sure to follow the following process while solving this problem: 
